@@ -40,6 +40,7 @@ $queryKategori = mysqli_query($con, "SELECT id, nama FROM kategori");
     <?php require "navbar.php"; ?>
     <!-- banner -->
     <div class="container-fluid banner d-flex align-items-center">
+        </s>
         <div class="container text-center text-white">
             <h1>Vandesu Store<i class="ms-2 fa-solid fa-paw ms-2"></i></h1>
             <div class="col-md-8 offset-md-2">
